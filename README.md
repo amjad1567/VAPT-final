@@ -26,10 +26,5 @@ If you have any suggestions for improvements or wish to report additional vulner
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For further inquiries, please contact [your-email@example.com].
+For further inquiries, please contact [amjadameenpp@gmail.com].
 ```
-
-### How to Use This README:
-1. Replace `[your-email@example.com]` with your actual email address.
-2. If you have a license file, ensure to link it properly in the License section.
-3. Modify the descriptions or add any additional details relevant to your reports as needed.
